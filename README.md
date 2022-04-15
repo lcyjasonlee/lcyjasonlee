@@ -1,5 +1,8 @@
 ### Hi there 👋
+###### Jason Lee
 
+- [ ] don't mind me
+- [x] just playing with __***markdown***__
 <!--
 **lcyjasonlee/lcyjasonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
